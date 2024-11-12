@@ -1,0 +1,5 @@
+User_Name=input("What is your Name ?\n")
+print("Hello, " + User_Name)
+City=input("what is the city name you grew up ?\n")
+Pet=input("What is your pet name ?\n")
+print("Hey this could be your band name " + City+ Pet)
