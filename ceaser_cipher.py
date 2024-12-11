@@ -25,8 +25,6 @@ def main():
             print("good bye")
             break
             
-
-
 main()
 
 
